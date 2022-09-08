@@ -1,0 +1,15 @@
+C:\Users\ellis\source\repos\Number_Guesser\Number_Guesser\bin\Release\net6.0\Number_Guesser.exe
+C:\Users\ellis\source\repos\Number_Guesser\Number_Guesser\bin\Release\net6.0\Number_Guesser.deps.json
+C:\Users\ellis\source\repos\Number_Guesser\Number_Guesser\bin\Release\net6.0\Number_Guesser.runtimeconfig.json
+C:\Users\ellis\source\repos\Number_Guesser\Number_Guesser\bin\Release\net6.0\Number_Guesser.dll
+C:\Users\ellis\source\repos\Number_Guesser\Number_Guesser\bin\Release\net6.0\Number_Guesser.pdb
+C:\Users\ellis\source\repos\Number_Guesser\Number_Guesser\obj\Release\net6.0\Number_Guesser.csproj.AssemblyReference.cache
+C:\Users\ellis\source\repos\Number_Guesser\Number_Guesser\obj\Release\net6.0\Number_Guesser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellis\source\repos\Number_Guesser\Number_Guesser\obj\Release\net6.0\Number_Guesser.AssemblyInfoInputs.cache
+C:\Users\ellis\source\repos\Number_Guesser\Number_Guesser\obj\Release\net6.0\Number_Guesser.AssemblyInfo.cs
+C:\Users\ellis\source\repos\Number_Guesser\Number_Guesser\obj\Release\net6.0\Number_Guesser.csproj.CoreCompileInputs.cache
+C:\Users\ellis\source\repos\Number_Guesser\Number_Guesser\obj\Release\net6.0\Number_Guesser.dll
+C:\Users\ellis\source\repos\Number_Guesser\Number_Guesser\obj\Release\net6.0\refint\Number_Guesser.dll
+C:\Users\ellis\source\repos\Number_Guesser\Number_Guesser\obj\Release\net6.0\Number_Guesser.pdb
+C:\Users\ellis\source\repos\Number_Guesser\Number_Guesser\obj\Release\net6.0\Number_Guesser.genruntimeconfig.cache
+C:\Users\ellis\source\repos\Number_Guesser\Number_Guesser\obj\Release\net6.0\ref\Number_Guesser.dll
